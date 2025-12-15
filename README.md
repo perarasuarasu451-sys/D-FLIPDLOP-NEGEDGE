@@ -65,7 +65,7 @@ Developed by:PERARASU K RegisterNumber: 25004665
 <img width="1012" height="612" alt="image" src="https://github.com/user-attachments/assets/733dad53-d8f9-42a3-b321-d6c42a05dc64" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1313" height="367" alt="image" src="https://github.com/user-attachments/assets/d660c8fd-0fce-416d-8509-ce8806d4dbe6" />
+![image](https://github.com/user-attachments/assets/4ddec297-8a03-4d92-8601-826a237273b1)
 
 **RESULTS**
 Thus the D flipflop is implemented and verified.
